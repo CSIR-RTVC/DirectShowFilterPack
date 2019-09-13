@@ -1,0 +1,24 @@
+[submodule "baseclasses"]
+	path = baseclasses
+	url = https://github.com/CSIR-RTVC/baseclasses
+[submodule "DirectShowExt"]
+	path = DirectShowExt
+	url = https://github.com/CSIR-RTVC/DirectShowExt
+[submodule "OpusCodec"]
+	path = OpusCodec
+	url = https://github.com/CSIR-RTVC/OpusCodec
+[submodule "Opus"]
+	path = Opus
+	url = https://github.com/CSIR-RTVC/Opus
+[submodule "OpusEncoderFilter"]
+	path = OpusEncoderFilter
+	url = https://github.com/CSIR-RTVC/OpusEncoderFilter
+[submodule "H264EncoderFilter"]
+	path = H264EncoderFilter
+	url = https://github.com/CSIR-RTVC/H264EncoderFilter
+[submodule "H264v2"]
+	path = H264v2
+	url = https://github.com/CSIR-RTVC/H264v2
+[submodule "vpp"]
+	path = vpp
+	url = https://github.com/CSIR-RTVC/vpp
