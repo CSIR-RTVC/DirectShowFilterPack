@@ -22,3 +22,57 @@
 [submodule "vpp"]
 	path = vpp
 	url = https://github.com/CSIR-RTVC/vpp
+[submodule "RotateFilter"]
+	path = RotateFilter
+	url = https://github.com/CSIR-RTVC/RotateFilter
+[submodule "PicInPicFilter"]
+	path = PicInPicFilter
+	url = https://github.com/CSIR-RTVC/PicInPicFilter
+[submodule "ScaleFilter"]
+	path = ScaleFilter
+	url = https://github.com/CSIR-RTVC/ScaleFilter
+[submodule "Stereo2MonoFilter"]
+	path = Stereo2MonoFilter
+	url = https://github.com/CSIR-RTVC/Stereo2MonoFilter
+[submodule "UtilityFilter"]
+	path = UtilityFilter
+	url = https://github.com/CSIR-RTVC/UtilityFilter
+[submodule "VideoMixingFilter"]
+	path = VideoMixingFilter
+	url = https://github.com/CSIR-RTVC/VideoMixingFilter
+[submodule "VirtualCam"]
+	path = VirtualCam
+	url = https://github.com/CSIR-RTVC/VirtualCam
+[submodule "VirtualMic"]
+	path = VirtualMic
+	url = https://github.com/CSIR-RTVC/VirtualMic
+[submodule "YUVSource"]
+	path = YUVSource
+	url = https://github.com/CSIR-RTVC/YUVSource
+[submodule "YUV444ToRGBFilter"]
+	path = YUV444ToRGBFilter
+	url = https://github.com/CSIR-RTVC/YUV444ToRGBFilter
+[submodule "YUV420ToRGBFilter"]
+	path = YUV420ToRGBFilter
+	url = https://github.com/CSIR-RTVC/YUV420ToRGBFilter
+[submodule "RGBtoYUV420Filter"]
+	path = RGBtoYUV420Filter
+	url = https://github.com/CSIR-RTVC/RGBtoYUV420Filter
+[submodule "RGBtoI420Filter"]
+	path = RGBtoI420Filter
+	url = https://github.com/CSIR-RTVC/RGBtoI420Filter
+[submodule "I420ToRGB24Filter"]
+	path = I420ToRGB24Filter
+	url = https://github.com/CSIR-RTVC/I420ToRGB24Filter
+[submodule "FrameSkippingFilter"]
+	path = FrameSkippingFilter
+	url = https://github.com/CSIR-RTVC/FrameSkippingFilter
+[submodule "CropFilter"]
+	path = CropFilter
+	url = https://github.com/CSIR-RTVC/CropFilter
+[submodule "H264Source"]
+	path = H264Source
+	url = https://github.com/CSIR-RTVC/H264Source
+[submodule "AudioMixingFilter"]
+	path = AudioMixingFilter
+	url = https://github.com/CSIR-RTVC/AudioMixingFilter
