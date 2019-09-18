@@ -102,3 +102,7 @@
 	path = AudioMixingFilter
 	url = https://github.com/CSIR-RTVC/AudioMixingFilter
 	ignore = dirty
+[submodule "H264DecoderFilter"]
+	path = H264DecoderFilter
+	url = https://github.com/CSIR-RTVC/H264DecoderFilter
+	ignore = dirty
