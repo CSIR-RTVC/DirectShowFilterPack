@@ -2,7 +2,7 @@
 
 IF EXIST "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\" (
 call "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\vsmsbuildcmd.bat"
-goto DOWNLOAD_DEPS
+goto BUILD_INSTALLER
 ) ELSE (
   echo Could not locate VS vars bat file
 )
