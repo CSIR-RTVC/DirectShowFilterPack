@@ -76,3 +76,6 @@
 [submodule "AudioMixingFilter"]
 	path = AudioMixingFilter
 	url = https://github.com/CSIR-RTVC/AudioMixingFilter
+[submodule "H264DecoderFilter"]
+	path = H264DecoderFilter
+	url = https://github.com/CSIR-RTVC/H264DecoderFilter
