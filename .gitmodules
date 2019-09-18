@@ -1,81 +1,108 @@
 [submodule "baseclasses"]
 	path = baseclasses
 	url = https://github.com/CSIR-RTVC/baseclasses
+	ignore = dirty
 [submodule "DirectShowExt"]
 	path = DirectShowExt
 	url = https://github.com/CSIR-RTVC/DirectShowExt
+	ignore = dirty
 [submodule "OpusCodec"]
 	path = OpusCodec
 	url = https://github.com/CSIR-RTVC/OpusCodec
+	ignore = dirty
 [submodule "Opus"]
 	path = Opus
 	url = https://github.com/CSIR-RTVC/Opus
+	ignore = dirty
 [submodule "OpusEncoderFilter"]
 	path = OpusEncoderFilter
 	url = https://github.com/CSIR-RTVC/OpusEncoderFilter
+	ignore = dirty
 [submodule "H264EncoderFilter"]
 	path = H264EncoderFilter
 	url = https://github.com/CSIR-RTVC/H264EncoderFilter
+	ignore = dirty
 [submodule "H264v2"]
 	path = H264v2
 	url = https://github.com/CSIR-RTVC/H264v2
+	ignore = dirty
 [submodule "vpp"]
 	path = vpp
 	url = https://github.com/CSIR-RTVC/vpp
+	ignore = dirty
 [submodule "RotateFilter"]
 	path = RotateFilter
 	url = https://github.com/CSIR-RTVC/RotateFilter
+	ignore = dirty
 [submodule "PicInPicFilter"]
 	path = PicInPicFilter
 	url = https://github.com/CSIR-RTVC/PicInPicFilter
+	ignore = dirty
 [submodule "ScaleFilter"]
 	path = ScaleFilter
 	url = https://github.com/CSIR-RTVC/ScaleFilter
+	ignore = dirty
 [submodule "Stereo2MonoFilter"]
 	path = Stereo2MonoFilter
 	url = https://github.com/CSIR-RTVC/Stereo2MonoFilter
+	ignore = dirty
 [submodule "UtilityFilter"]
 	path = UtilityFilter
 	url = https://github.com/CSIR-RTVC/UtilityFilter
+	ignore = dirty
 [submodule "VideoMixingFilter"]
 	path = VideoMixingFilter
 	url = https://github.com/CSIR-RTVC/VideoMixingFilter
+	ignore = dirty
 [submodule "VirtualCam"]
 	path = VirtualCam
 	url = https://github.com/CSIR-RTVC/VirtualCam
+	ignore = dirty
 [submodule "VirtualMic"]
 	path = VirtualMic
 	url = https://github.com/CSIR-RTVC/VirtualMic
+	ignore = dirty
 [submodule "YUVSource"]
 	path = YUVSource
 	url = https://github.com/CSIR-RTVC/YUVSource
+	ignore = dirty
 [submodule "YUV444ToRGBFilter"]
 	path = YUV444ToRGBFilter
 	url = https://github.com/CSIR-RTVC/YUV444ToRGBFilter
+	ignore = dirty
 [submodule "YUV420ToRGBFilter"]
 	path = YUV420ToRGBFilter
 	url = https://github.com/CSIR-RTVC/YUV420ToRGBFilter
+	ignore = dirty
 [submodule "RGBtoYUV420Filter"]
 	path = RGBtoYUV420Filter
 	url = https://github.com/CSIR-RTVC/RGBtoYUV420Filter
+	ignore = dirty
 [submodule "RGBtoI420Filter"]
 	path = RGBtoI420Filter
 	url = https://github.com/CSIR-RTVC/RGBtoI420Filter
+	ignore = dirty
 [submodule "I420ToRGB24Filter"]
 	path = I420ToRGB24Filter
 	url = https://github.com/CSIR-RTVC/I420ToRGB24Filter
+	ignore = dirty
 [submodule "FrameSkippingFilter"]
 	path = FrameSkippingFilter
 	url = https://github.com/CSIR-RTVC/FrameSkippingFilter
+	ignore = dirty
 [submodule "CropFilter"]
 	path = CropFilter
 	url = https://github.com/CSIR-RTVC/CropFilter
+	ignore = dirty
 [submodule "H264Source"]
 	path = H264Source
 	url = https://github.com/CSIR-RTVC/H264Source
+	ignore = dirty
 [submodule "AudioMixingFilter"]
 	path = AudioMixingFilter
 	url = https://github.com/CSIR-RTVC/AudioMixingFilter
+	ignore = dirty
 [submodule "H264DecoderFilter"]
 	path = H264DecoderFilter
 	url = https://github.com/CSIR-RTVC/H264DecoderFilter
+	ignore = dirty
